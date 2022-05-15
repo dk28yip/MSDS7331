@@ -1,2 +1,2 @@
 # MSDS7331_lab1
-## Shijo, Triston, Douglas
+## Shijo, Triston, Douglas, Ousman
